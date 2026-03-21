@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swati-yelamanchili/swati-yelamanchili/main/assets/header.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Swati+Yelamanchili" />
 </p>
-
-<h1 align="center">swati</h1>
 
 <p align="center">
   <b>systems · security · hardware · design</b>
@@ -11,7 +9,6 @@
 <p align="center">
   <i>building across layers — from circuits to code</i>
 </p>
-
 ---
 
 <p align="center">
