@@ -9,7 +9,7 @@
 <p align="center">
   <i>building across layers — from circuits to code</i>
 </p>
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/swati-yelamanchili/swati-yelamanchili/main/assets/terminal.gif" width="80%" />
