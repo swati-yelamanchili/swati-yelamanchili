@@ -17,7 +17,7 @@
 
 ---
 
-## ⚙️ skills
+## skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,git,linux,arduino" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 domains
+## domains
 
 ```bash
 systems programming
@@ -37,7 +37,7 @@ applied machine learning
 
 ---
 
-## 🚀 featured work
+## featured work
 
 ```bash
 adaptive monte carlo localization   → probabilistic robotics
@@ -49,7 +49,7 @@ ml churn prediction                → end-to-end ML pipeline
 
 ---
 
-## 📊 stats
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swati-yelamanchili&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -57,7 +57,7 @@ ml churn prediction                → end-to-end ML pipeline
 
 ---
 
-## 🤝 connect
+## connect
 
 <p align="center">
   <a href="https://github.com/swati-yelamanchili">
