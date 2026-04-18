@@ -40,21 +40,13 @@ applied machine learning
 ## featured work
 
 ```bash
-adaptive monte carlo localization   → probabilistic robotics
+acadmeic copilot                   → task prioritization & scheduling system
+adaptive monte carlo localization  → probabilistic robotics
 pipelined processor                → computer architecture
 fpga-based adder                   → digital hardware design
 hid rubber ducky                   → security experimentation
 ml churn prediction                → end-to-end ML pipeline
 ```
-
----
-
-## stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swati-yelamanchili&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ## connect
